@@ -12,3 +12,8 @@
 
 5 - You want to read the numbers of every person in the phone book.
     O(n)
+
+6 - You want to read the numbers of just the As.
+    O(n), the As gonna be on the start.
+
+    
